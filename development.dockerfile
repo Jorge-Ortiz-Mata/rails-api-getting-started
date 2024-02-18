@@ -1,5 +1,5 @@
 # From the Ruby base image
-FROM ruby:3.0.4 as base
+FROM ruby:3.1 as base
 
 # Create a directory
 WORKDIR /myapp
