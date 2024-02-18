@@ -1,24 +1,9 @@
-# README
+# Ruby on Rails API template
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a ruby on rails template you can use to create api backends.
 
-Things you may want to cover:
+## How to use it.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Make sure to have VSCode and Docker installed, as well as the dev containers extension for VSCode.
+2. In the dockerfiles, on the workdir directory, change "myapp" with your project's name
+3. Rebuild and open the project in container
